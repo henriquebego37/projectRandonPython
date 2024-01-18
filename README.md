@@ -1,4 +1,4 @@
 # projectRandonPython
 
-projectt python
+project python
 

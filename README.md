@@ -1,5 +1,3 @@
 # projectRandonPython
 
-project pythonn vamossasd
-
-sdd
+project pythonn vamos

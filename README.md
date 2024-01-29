@@ -1,3 +1,3 @@
 # projectRandonPython
 
-project pythsovn vamos
+project python vamos

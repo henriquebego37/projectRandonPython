@@ -1,3 +1,3 @@
 # projectRandonPython
 
-project python vamos
+project pythson vamos

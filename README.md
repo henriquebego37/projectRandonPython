@@ -1,4 +1,4 @@
 # projectRandonPython
 
-project pythonn vamoss
+project python vamoss
   

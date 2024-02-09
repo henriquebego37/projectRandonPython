@@ -1,5 +1,4 @@
 # projectRandonPython
 
-project python vamossxasds
-dfg
-cvx 
+project python 
+

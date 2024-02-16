@@ -1,5 +1,3 @@
 # projectRandonPython
 
 project python 
-
-c
